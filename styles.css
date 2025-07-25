@@ -6,7 +6,7 @@
 }
 
 body {
-  margin: 88px auto;
+  margin: 88px auto 0 auto;
   max-width: 1120px;
   width: 100%;
 }
@@ -41,11 +41,6 @@ img {
   margin: 0 auto 24px;
 }
 
-#contentlist {
-  margin-top: 104px;
-  text-align: center;
-}
-
 h2 {
   margin: 2px 0 8px;
   font-size: 32px;
@@ -61,6 +56,7 @@ h3 {
   font-size: 28px;
   font-weight: bold;
   text-align: left;
+  margin-left: 10px;
 }
 
 .primary-paragraph {
@@ -74,7 +70,8 @@ div {
   max-width: 1120px;
   height: 1px;
   background-color: #d9d9d9;
-  margin: 24px auto;
+  margin-top: 40px;
+  margin-bottom: 64px;
 }
 
 p {
@@ -89,10 +86,6 @@ span {
   display: block;
 }
 
-.custom-li::marker {
-  color: black;
-}
-
 .custom-li {
   margin-bottom: 48px;
   text-align: left;
@@ -100,16 +93,30 @@ span {
   color: #0c51a7;
 }
 
+.custom-li::marker {
+  color: black;
+}
+
 .custom-casais {
   text-align: left;
   list-style-position: inside;
   color: #591b98;
+  margin-left: 3px;
+}
+
+.custom-casais::marker {
+  color: black;
 }
 
 .custom-familias {
   text-align: left;
   list-style-position: inside;
   color: #e5245e;
+  margin-left: 3px;
+}
+
+.custom-familias::marker {
+  color: black;
 }
 
 .custom-orcamento {
@@ -117,6 +124,24 @@ span {
   list-style-position: inside;
   margin-bottom: 40px;
   color: #e95e10;
+  margin-left: 3px;
+}
+
+.custom-orcamento::marker {
+  color: black;
+}
+
+.line {
+  width: 100%;
+  max-width: 1120px;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin: 40px auto;
+}
+
+.secondary-paragraph {
+  text-align: center;
+  margin-bottom: 65px;
 }
 
 footer {
@@ -126,7 +151,7 @@ footer {
   align-items: center;
   gap: 4px;
   font-size: 16px;
-  margin-top: 65px;
+  margin-bottom: 48px;
 }
 
 footer img {
