@@ -2,4 +2,94 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+#titlepage {
+  margin-top: 88px;
+  padding-left: 80px;
+}
+
+h4 {
+  color: #e1624f;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+  margin-top: 8px;
+  margin-bottom: 40px;
+}
+
+#descriptionimage {
+  border-radius: 28px;
+  padding-left: 80px;
+}
+
+img {
+  border-radius: 28px;
+  margin-bottom: 24px;
+}
+
+.paragraph {
+  margin-left: 22px;
+  font-size: 16px;
+}
+
+#contentlist {
+  margin-top: 104px;
+  padding-left: 80px;
+}
+
+h2 {
+  margin-top: 2px;
+  margin-bottom: 8px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.img-haedong {
+  margin-top: 64px;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  margin-top: 4px;
+}
+
+span {
+  font-size: 18px;
+}
+
+.custom-li::marker {
+  color: black;
+}
+
+.custom-li {
+  color: #0c51a7;
+  margin-left: 24px;
+  margin-bottom: 48px;
+}
+
+.custom-casais {
+  color: #591b98;
+  margin-left: 24px;
+}
+
+.custom-familias {
+  color: #e5245e;
+  margin-left: 24px;
+}
+
+.custom-orcamento {
+  color: #e95e10;
+  margin-left: 24px;
 }
