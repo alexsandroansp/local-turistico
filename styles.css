@@ -158,3 +158,13 @@ footer img {
   margin: 0;
   padding: 0;
 }
+
+@media (max-width: 768px) {
+  body {
+    margin: 88px auto 0 auto;
+    max-width: 1120px;
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
