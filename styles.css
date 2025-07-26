@@ -159,7 +159,7 @@ footer img {
   padding: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   body {
     margin: 88px auto 0 auto;
     max-width: 1120px;
