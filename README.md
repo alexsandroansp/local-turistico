@@ -52,11 +52,7 @@ Reproduzir 100% do layout original, focando em:
 
 📸 **Preview do Projeto**
 
-<p align="center">
-  <a href="https://local-turistico-one.vercel.app/" target="_blank">
-    <img src="[https://github.com/user-attachments/assets/0a921e2d-60b8-4c15-9da2-6893bb30ddd7]" width="100%" alt="Imagem do projeto de local turístico" />
-  </a>
-</p>
+<p align="center"> <a href="https://local-turistico-one.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/0a921e2d-60b8-4c15-9da2-6893bb30ddd7/image.png" width="100%" alt="Imagem do projeto de local turístico" /> </a> </p>
 
 ---
 
