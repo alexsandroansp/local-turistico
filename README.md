@@ -1,10 +1,3 @@
-![Local turistico](https://github.com/user-attachments/assets/b3d9ba9e-b040-4fad-b21e-dd4ab800e0d9)
-
-
-
-
-
-
 
 
 
