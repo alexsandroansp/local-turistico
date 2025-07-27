@@ -3,7 +3,7 @@
 
 <pre align="center">
 ╔══════════════════════════════════════════╗
-║ 🍽️  Projeto: Local turístico  ║
+║ 🖼️  Projeto: Local turístico  ║
 ╚══════════════════════════════════════════╝
 </pre>
 
@@ -53,8 +53,8 @@ Reproduzir 100% do layout original, focando em:
 ---
 
 💡 **Destaques Técnicos**
-- Cabeçalho e imagem com bordas arredondadas 🍳
-- Ingredientes e modo de preparo em blocos bem definidos 📋
+- Background color suave 🎨
+- Parágrafos alinhados e na posição certa 📋
 - Estilo visual elegante, minimalista e funcional 🧑‍🍳
 
 ---
